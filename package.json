@@ -12,7 +12,7 @@
   "dependencies": {
     "ovrui": "~2.0.0",
     "react": "16.0.0",
-    "react-native": "~0.48.0",
+    "react-native": "~0.70.2",
     "react-redux": "^5.0.7",
     "react-router": "^4.2.0",
     "react-vr": "~2.0.0",
